@@ -11,3 +11,12 @@ p{
   color:blue;
   text-align:enter;
 }
+
+.container {
+    width: 100%;            /* Ensure the container takes full width */
+    display: block;         /* Make sure it's a block element */
+}
+audio {
+    display: block;         /* Make sure the audio element is a block element */
+    margin: 0 auto;         /* Center horizontally */
+}
