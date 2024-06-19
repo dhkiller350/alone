@@ -1,15 +1,16 @@
 body{
-  background-color:black;
+    background:black;
+}
+
+p{
+    text-align:center;
+    font-size:30px;
+    color:blue;
 }
 
 h1{
   color:blue;
   text-align:center;
-}
-
-p{
-  color:blue;
-  text-align:enter;
 }
 
 .container {
